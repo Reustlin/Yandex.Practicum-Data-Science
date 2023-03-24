@@ -7,7 +7,7 @@
 
 ### Содержание: / Content:
 
-  - [Анализ игровых платформ / Common project - *Project_01*](Project 1 - Games platforms)
+  - [Анализ игровых платформ / Common project - *Project_01*](Project 1 - Game platforms)
   - [Введение в машинное обучение / Introduction to machine learning  - *Project_02*](05_ml_intro_mobile_tariffs)
   - [Обучение с учителем / Supervised learning  - *Project_03*](06_customer_churn_forecasting)
   - [Машинное обучение в бизнесе / Machine learning in business  - *Project_04*](07_ml_for_business_oil_bores)
