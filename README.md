@@ -3,11 +3,11 @@
 
 ### О курсе / About program
 
-- Ссылка на курс: https://praktikum.yandex.ru/data-scientist/
+- Ссылка на курс: https://practicum.yandex.ru/data-scientist/
 
 ### Содержание: / Content:
 
-  - [Сборный проект / Common project - *Project_01*](04_game_dev_analytics)
+  - [Анализ игровых платформ / Common project - *Project_01*](Project 1 - Games platforms)
   - [Введение в машинное обучение / Introduction to machine learning  - *Project_02*](05_ml_intro_mobile_tariffs)
   - [Обучение с учителем / Supervised learning  - *Project_03*](06_customer_churn_forecasting)
   - [Машинное обучение в бизнесе / Machine learning in business  - *Project_04*](07_ml_for_business_oil_bores)
