@@ -1,4 +1,4 @@
-# Yandex.Praktikum Data Science Projects
+# Yandex.Praсtiсum Data Science Projects
 Репозиторий с проектами, созданными в рамках курса "Специалист Data Science" в Яндекс.Практикуме
 
 ### О курсе / About program
@@ -7,20 +7,17 @@
 
 ### Содержание: / Content:
 
-  - [Предобработка данных / Data Processing - *Project_01*](01_bank_data_preprocessing)
-  - [Исследовательский анализ данных / Exploratory data analysis - *Project_02*](02_real_estate_market)
-  - [Статистический анализ данных / Statistical analysis of data - *Project_03*](03_statistical_data_analysis)
-  - [Сборный проект / Common project - *Project_04*](04_game_dev_analytics)
-  - [Введение в машинное обучение / Introduction to machine learning  - *Project_05*](05_ml_intro_mobile_tariffs)
-  - [Обучение с учителем / Supervised learning  - *Project_06*](06_customer_churn_forecasting)
-  - [Машинное обучение в бизнесе / Machine learning in business  - *Project_07*](07_ml_for_business_oil_bores)
-  - [Сборный проект / Common project  - *Project_08*](08_gold_recovery)
-  - [Линейная алгебра / Linear algebra  - *Project_09*](09_linear_algebra)
-  - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_10*](10_cars_cost_determining)
-  - [Временные ряды / Time series  - *Project_11*](11_time_series_taxi_orders_forecasting)
-  - [Машинное обучение для текстов / Machine learning for texts  - *Project_12*](12_nlp_toxic_texts)
-  - [Извлечение данных / Data retrieval - *Project_13*](13_sql_and_airline_analytics)
-  - [Компьютерное зрение / Computer vision  - *Project_14*](14_cv_img_age_recognition)
+  - [Сборный проект / Common project - *Project_01*](04_game_dev_analytics)
+  - [Введение в машинное обучение / Introduction to machine learning  - *Project_02*](05_ml_intro_mobile_tariffs)
+  - [Обучение с учителем / Supervised learning  - *Project_03*](06_customer_churn_forecasting)
+  - [Машинное обучение в бизнесе / Machine learning in business  - *Project_04*](07_ml_for_business_oil_bores)
+  - [Сборный проект / Common project  - *Project_05*](08_gold_recovery)
+  - [Линейная алгебра / Linear algebra  - *Project_06*](09_linear_algebra)
+  - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_17*](10_cars_cost_determining)
+  - [Временные ряды / Time series  - *Project_8*](11_time_series_taxi_orders_forecasting)
+  - [Машинное обучение для текстов / Machine learning for texts  - *Project_9*](12_nlp_toxic_texts)
+  - [Извлечение данных / Data retrieval - *Project_10*](13_sql_and_airline_analytics)
+  - [Компьютерное зрение / Computer vision  - *Project_11*](14_cv_img_age_recognition)
   - Рекомендации и обучение без учителя / Unsupervised learning
 - [**Выпускной проект / Final project**  - *Project_final*](15_graduate_project_telecom_customer_churn)
 
