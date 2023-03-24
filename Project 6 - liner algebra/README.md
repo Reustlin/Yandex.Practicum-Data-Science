@@ -12,5 +12,5 @@
 # Модели
 `LinearRegression`
 
-#Метрики
+# Метрики
 `r2_score`
