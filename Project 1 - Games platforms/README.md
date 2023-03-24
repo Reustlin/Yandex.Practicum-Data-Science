@@ -25,4 +25,4 @@
 * RP («Rating Pending») — «Рейтинг ожидается»
 ### Используемые инструменты
 
-*scipy matplotlib plotly pandas numpy math*
+`scipy` `matplotlib` `plotly` `pandas` `numpy` `math` `seaborn`
