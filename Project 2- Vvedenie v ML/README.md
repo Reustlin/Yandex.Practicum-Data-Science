@@ -14,8 +14,8 @@
 * is_ultra — каким тарифом пользовался в течение месяца («Ультра» — 1, «Смарт» — 0).
 
 # Используемые инструменты
-`sklearn pandas numpy`
+`sklearn` pandas` `numpy`
 
 # Используемые модели
-`DecisionTreeClassifier RandomForestClassifier`
+`DecisionTreeClassifier` `RandomForestClassifier`
 
