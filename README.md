@@ -13,7 +13,7 @@
   - [Машинное обучение в бизнесе / Machine learning in business  - *Project_04*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%204%20-%20ML%20in%20business)
   - [Сборный проект / Common project  - *Project_05*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%205%20-%20Gold%20recovery)
   - [Линейная алгебра / Linear algebra  - *Project_06*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%206%20-%20liner%20algebra)
-  - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_17*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%207%20-%20Car%20Price)
+  - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_7*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%207%20-%20Car%20Price)
   - [Временные ряды / Time series  - *Project_8*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%208%20-%20time%20series%20(taxi%20orders))
   - [Машинное обучение для текстов / Machine learning for texts  - *Project_9.1*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.1%20-%20NLP%20Toxic%20text)
   - [Машинное обучение для текстов (BERT) / Machine learning for texts  - *Project_9.2*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.2%20-%20NLP%20Toxic%20text%20with%20BERT)
