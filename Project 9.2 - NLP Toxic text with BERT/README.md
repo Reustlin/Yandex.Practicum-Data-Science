@@ -9,11 +9,16 @@
 ## Используемые инструменты
 `BERT` `spacy` `SVC` `pymystem3` `re` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math`
 
-# Модели
+## Модели
 `BERT` `SVC`  `LogisticRegression` `Catboost` `LightGBM` `XGboost`
 
-# Дополнительно
+## Дополнительно
 `TfidfVectorizer` `Lemmatizer` `Lookups` `GridSearchCV`
 
-# Метрики
+## Метрики
 `f1_score`
+
+## Основные шаги и выводы:
+* Анализ данных, подготовка
+* Использование предобученной нейронной сети для решения поставленной задачи от заказчика
+* Достижения целевой метрики F1 на тестовой выборки 0.88 при требуемой в 0.75
