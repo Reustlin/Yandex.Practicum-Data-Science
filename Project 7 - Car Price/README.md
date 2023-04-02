@@ -29,14 +29,19 @@
 ## Целевой признак
 
 * Price — цена (евро)
-# Используемые инструменты
+### Используемые инструменты
 `catboost` `lightgbm` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time` `xgboost`
 
-# Модели
+### Модели
 `CatBoostRegressor` `LGBMRegressor` `DecisionTreeRegressor` `RandomForestRegressor` `LinearRegression` `DummyRegressor` `XGBoostRegressor`
 
-# Дополнительно
+### Дополнительно
 `OneHotEncoder` `OrdinalEncoder` `GridSearchCV` `make_scorer`
 
-# Метрики
+### Метрики
 `mean_squared_error`
+
+### Основные шаги и выводы:
+* Выполнен анализ данных, предобработка
+* Сравнение различных моделей на конечный результат, различия в метрике, скорости работы 
+* Модель на тестовых данных показала требуемую метрику для заказчика
