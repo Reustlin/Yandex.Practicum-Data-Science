@@ -9,11 +9,16 @@
 ## Используемые инструменты
 `TimeSeriesSplit` `catboost` `lightgbm` `statsmodels` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time`
 
-# Модели
+### Модели
 `LGBMRegressor` `CatBoostRegressor` `LinearRegression` `RandomForestRegressor`
 
-# Дополнительно
+### Дополнительно
 `TimeSeriesSplit` `seasonal_decompose` `StandardScaler` `GridSearchCV`
 
-# Метрики
+### Метрики
 `MSE` `RMSE`
+
+### Основные шаги и выводы
+* Анализ и подготовка данных, с учетом специфики в Time series
+* Сравнение результатов нескольких моделей
+* Достижение целевой метрики от заказчика MSE/RMSE
