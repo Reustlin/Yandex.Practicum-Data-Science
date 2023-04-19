@@ -7,7 +7,7 @@
 ## Используемые инструменты:
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `keras`, `tensorflow`, `Adam`
 ## Модели:
-ResNet50
+`ResNet50`
 ## Метрики
 `MAE`
 ## Основные шаги и выводы:
