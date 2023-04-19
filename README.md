@@ -17,7 +17,7 @@
   - [Временные ряды / Time series  - *Project_8*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%208%20-%20time%20series%20(taxi%20orders))
   - [Машинное обучение для текстов / Machine learning for texts  - *Project_9.1*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.1%20-%20NLP%20Toxic%20text)
   - [Машинное обучение для текстов (BERT) / Machine learning for texts  - *Project_9.2*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.2%20-%20NLP%20Toxic%20text%20with%20BERT)
-  - [Компьютерное зрение / Computer vision  - *Project_10*](wait)
+  - [Компьютерное зрение / Computer vision  - *Project_10*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2010%20-%20Computer%20vision)
   - Рекомендации и обучение без учителя / Unsupervised learning
 - [**Выпускной проект / Final project**  - *Project_final*](wait)
 
@@ -26,7 +26,7 @@
 |№| Название | Общая информация | Стек технологий |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
 |12  |[(Дипломный проект) wait](wait)|wait topic|`catboost` `sklearn` `seaborn` `matplotlib` `plotly` `pandas` `numpy` `math`|
-|10  |[(Computer vision) Определение возраста человека по фотографии](wait)|Чтобы сетевой супермаркет мог проверять добросовестность продавцов и делать целевые предложения своим покупателям, необходимо построить модель, которая по фотографии определит приблизительный возраст человека.|`Keras` `tensorflow` `Adam` `ResNet50` `ImageDataGenerator` `seaborn` `PIL` `pandas` `matplotlib` `plotly` `numpy`|
+|10  |[(Computer vision) Определение возраста человека по фотографии](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2010%20-%20Computer%20vision)|Чтобы сетевой супермаркет мог проверять добросовестность продавцов и делать целевые предложения своим покупателям, необходимо построить модель, которая по фотографии определит приблизительный возраст человека.|`Keras` `tensorflow` `Adam` `ResNet50` `ImageDataGenerator` `seaborn` `PIL` `pandas` `matplotlib` `plotly` `numpy`|
 |9.2  |[(Обработка естественного языка -BERT) Определение токсичности комментариев](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.2%20-%20NLP%20Toxic%20text%20with%20BERT)|Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Для этого необходимо обучить модель классифицировать комментарии на позитивные и негативные|`BERT` `spacy` `SVC` `pymystem3` `re` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math`|
 |9.1  |[(Обработка естественного языка) Определение токсичности комментариев](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.1%20-%20NLP%20Toxic%20text)|Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Для этого необходимо обучить модель классифицировать комментарии на позитивные и негативные|`BERT` `spacy` `SVC` `pymystem3` `re` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math`|
 |8  |[(Временные ряды) Прогноз количества заказов такси на следующий час](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%208%20-%20time%20series%20(taxi%20orders))|Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час.|`TimeSeriesSplit` `catboost` `lightgbm` `statsmodels` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time`|
