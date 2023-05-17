@@ -18,15 +18,14 @@
   - [Машинное обучение для текстов / Machine learning for texts  - *Project_9.1*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.1%20-%20NLP%20Toxic%20text)
   - [Машинное обучение для текстов (BERT) / Machine learning for texts  - *Project_9.2*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.2%20-%20NLP%20Toxic%20text%20with%20BERT)
   - [Компьютерное зрение / Computer vision  - *Project_10*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2010%20-%20Computer%20vision)
-  - Рекомендации и обучение без учителя / Unsupervised learning
   - [**Металлургический завод, выпускной проект / Steel factory**  - *Project_11/final*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2011%20-%20Steel%20factory%20(final%20project))
-  -  Финальный проект, предсказание конечной температуры в ковше
+
 
 ## Проекты
 
 |№| Название | Общая информация | Стек технологий |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
-|11  |[(Металлургический завод, выпускной проект)]([wait](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2011%20-%20Steel%20factory%20(final%20project)))|Прогнозирование температуры в ковше на металлургическом заводе|`catboost` `sklearn` `seaborn` `matplotlib` `plotly` `pandas` `numpy` `math`|
+|11  |[Металлургический завод, выпускной проект)(https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2011%20-%20Steel%20factory%20(final%20project))|Прогнозирование температуры в ковше на металлургическом заводе|`catboost` `sklearn` `seaborn` `matplotlib` `plotly` `pandas` `numpy` `math`|
 |10  |[(Computer vision) Определение возраста человека по фотографии](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2010%20-%20Computer%20vision)|Чтобы сетевой супермаркет мог проверять добросовестность продавцов и делать целевые предложения своим покупателям, необходимо построить модель, которая по фотографии определит приблизительный возраст человека.|`Keras` `tensorflow` `Adam` `ResNet50` `ImageDataGenerator` `seaborn` `PIL` `pandas` `matplotlib` `plotly` `numpy`|
 |9.2  |[(Обработка естественного языка -BERT) Определение токсичности комментариев](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.2%20-%20NLP%20Toxic%20text%20with%20BERT)|Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Для этого необходимо обучить модель классифицировать комментарии на позитивные и негативные|`BERT` `spacy` `SVC` `pymystem3` `re` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math`|
 |9.1  |[(Обработка естественного языка) Определение токсичности комментариев](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.1%20-%20NLP%20Toxic%20text)|Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Для этого необходимо обучить модель классифицировать комментарии на позитивные и негативные|`BERT` `spacy` `SVC` `pymystem3` `re` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math`|
