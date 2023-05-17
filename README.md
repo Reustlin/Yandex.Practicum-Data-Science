@@ -19,7 +19,8 @@
   - [Машинное обучение для текстов (BERT) / Machine learning for texts  - *Project_9.2*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%209.2%20-%20NLP%20Toxic%20text%20with%20BERT)
   - [Компьютерное зрение / Computer vision  - *Project_10*](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2010%20-%20Computer%20vision)
   - Рекомендации и обучение без учителя / Unsupervised learning
-- [**Выпускной проект / Final project**  - *Project_final*](wait)
+  - [**Металлургический завод, выпускной проект / Steel factory**  - *Project_11/final*]([wait](https://github.com/Reustlin/Yandex.Practicum-Data-Science/tree/main/Project%2011%20-%20Steel%20factory%20(final%20project))
+  -  Финальный проект, предсказание конечной температуры в ковше
 
 ## Проекты
 
